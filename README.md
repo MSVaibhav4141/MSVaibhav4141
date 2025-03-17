@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, vue ,graphql , next ,databases**
 
-- 📫 How to reach me **mycodingv41@gmail.com**
+- 📫 How to reach me **vaibhavsingh4141@gmail.com**, [Linkedin](https://www.linkedin.com/in/vaibhavms4141/?originalSubdomain=in) 
 
 - ⚡ Fun fact **Turning bugs into jams – because why not? 🎸💻**
 
